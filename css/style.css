@@ -120,20 +120,14 @@ font-family: 'Ubuntu', sans-serif;
 	font-size: 20pt;
 }
 h3 {
-font-family: 'Ubuntu', sans-serif;
-
+  font-family: 'Ubuntu', sans-serif;
 	text-transform: none;
-
-
 	text-decoration: none;
-
-
 	font-weight: bold;
-
 	font-family: Codystar;
-
 	line-height: 1.6em;
-	color: #ede72f;
+/*  color: #ede72f;*/
+  color: #555;
 	font-size: 20pt;
 }
 h3 a {
@@ -1376,3 +1370,8 @@ This is the CSS for the social links
 .slider-wrapper {
 	padding-top: 120px;
 }
+
+
+#schedule { }
+#schedule h3 { margin-top: 15px; }
+#schedule li { line-height: 2em; }
