@@ -7,13 +7,13 @@ Description: Personal Blog
 Author: 92five
 Author URI: http://www.92five.net
 Version: 1.0
-							
+
 Designed & Handcrafted by 92five for 92five.net
-									
+
 *******************************************************************
 ******************************************************************/
-									
-									
+
+
 /******************************************************************
 This is the CSS Reset
 ******************************************************************/
@@ -70,7 +70,7 @@ TEXT SELECTION STYLES
 /******************************************************************
 General CSS
 ******************************************************************/
-									
+
 a {
 	text-decoration: none;
 	font-family: Shanti;
@@ -93,7 +93,7 @@ font-family: Shanti;
 }
 p a {
 font-family: 'Ubuntu', sans-serif;
-                                  
+
 font-family: Shanti;
 	line-height: 1.6em;
 	color: fuchsia;
@@ -102,7 +102,7 @@ font-family: Shanti;
 h1 {
 font-family: 'Ubuntu', sans-serif;
 	font-family: Codystar;
-                                  
+
 	line-height: 1.6em;
 	color: #454544;
 	text-decoration: none;
@@ -110,10 +110,10 @@ font-family: 'Ubuntu', sans-serif;
 }
 h2 {
 font-family: 'Ubuntu', sans-serif;
-                                  
+
 	font-family: Codystar;
-                                  
-                                  
+
+
 	line-height: 1.6em;
 	color: #ff08e6;
 	text-decoration: none;
@@ -121,49 +121,49 @@ font-family: 'Ubuntu', sans-serif;
 }
 h3 {
 font-family: 'Ubuntu', sans-serif;
-                                  
+
 	text-transform: none;
-                                  
-                                  
+
+
 	text-decoration: none;
-                                  
-                                  
+
+
 	font-weight: bold;
-                                  
+
 	font-family: Codystar;
-                                  
+
 	line-height: 1.6em;
 	color: #ede72f;
 	font-size: 20pt;
 }
 h3 a {
 font-family: 'Ubuntu', sans-serif;
-                                  
-                                  
+
+
 	text-decoration: none;
-                                  
-                                  
-                                  
+
+
+
 	font-weight: bold;
-                                  
+
 	font-family: Codystar;
-                                  
+
 	line-height: 1.6em;
 	color: fuchsia;
 	font-size: 20pt;
 }
 h3 visited {
 font-family: 'Ubuntu', sans-serif;
-                                  
-                                  
+
+
 	text-decoration: none;
-                                  
-                                  
-                                  
+
+
+
 	font-weight: bold;
-                                  
+
 	font-family: Codystar;
-                                  
+
 	line-height: 1.6em;
 	color: fuchsia;
 	font-size: 20pt;
@@ -171,7 +171,7 @@ font-family: 'Ubuntu', sans-serif;
 h4 {
 font-family: 'Ubuntu', sans-serif;
 	font-family: Shanti;
-                                  
+
 	line-height: 1.6em;
 	color: #454544;
 	text-decoration: none;
@@ -180,7 +180,7 @@ font-family: 'Ubuntu', sans-serif;
 h5 {
 font-family: 'Ubuntu', sans-serif;
 	font-family: Shanti;
-                                  
+
 	line-height: 1.6em;
 	color: #949d97;
 	text-decoration: none;
@@ -189,42 +189,42 @@ font-family: 'Ubuntu', sans-serif;
 h6 {
 font-family: 'Ubuntu', sans-serif;
 	font-family: Shanti;
-                                  
+
 	line-height: 1.6em;
 	color: #454544;
 	text-decoration: none;
 	font-size: 14pt;
 }
-                                                    
-                    
-                                                    
+
+
+
 
 h7 {
 font-family: 'Ubuntu', sans-serif;
 	font-weight: bold;
-                                  
+
 	text-transform: uppercase;
-                                  
+
 	font-family: Codystar;
-                                  
+
 	line-height: 1.6em;
 	color: fuchsia;
 	text-decoration: none;
 	font-size: 14pt;
 }
-                                                    
-                    
-                                                    
+
+
+
 
 h8 {
 font-family: 'Ubuntu', sans-serif;
-                                  
-                                  
+
+
 	border-top-style: none;
-                                  
-                                  
+
+
 	font-family: Codystar;
-                                  
+
 	line-height: 1.6em;
 	color: #999999;
 	text-decoration: none;
@@ -486,12 +486,13 @@ font-family: Codystar, serif;
 }
 #main-menu a {
 	font-family: Codystar;
-	color: #e9de09;
+/*  color: #e9de09;*/
+	color: #222;
 	text-decoration: none;
-	font-size: 12pt;
+	font-size: 14pt;
 }
 #main-menu a:hover {
-	color: #04187c;
+  color: #04187c;
 }
 #main-menu li {
 	color: #666666;
